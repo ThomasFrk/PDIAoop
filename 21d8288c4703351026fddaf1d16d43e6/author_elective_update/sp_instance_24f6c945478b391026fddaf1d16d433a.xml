@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">68f6c945478b391026fddaf1d16d4332</sp_column>
+        <sp_widget display_value="KB Top Rated">3c817b52cb30020000f8d856634c9cfb</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 19:08:46</sys_created_on>
+        <sys_id>24f6c945478b391026fddaf1d16d433a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Top Rated Articles</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1250560_gest_o_0">21d8288c4703351026fddaf1d16d43e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">21d8288c4703351026fddaf1d16d43e6</sys_scope>
+        <sys_update_name>sp_instance_24f6c945478b391026fddaf1d16d433a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 19:12:58</sys_updated_on>
+        <title>Top Rated Articles</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=24f6c945478b391026fddaf1d16d433a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">21d8288c4703351026fddaf1d16d43e6</application>
+        <file_path/>
+        <instance_id>b7dc55651bbaf9549377eb9b2d4bcb46</instance_id>
+        <instance_name>dev227736</instance_name>
+        <name>sp_instance_24f6c945478b391026fddaf1d16d433a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">68f6c945478b391026fddaf1d16d4332</sp_column><sp_widget display_value="KB Top Rated">3c817b52cb30020000f8d856634c9cfb</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-09 19:08:46</sys_created_on><sys_id>24f6c945478b391026fddaf1d16d433a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Top Rated Articles</sys_name><sys_package display_value="Gestão de Inventário" source="x_1250560_gest_o_0">21d8288c4703351026fddaf1d16d43e6</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">21d8288c4703351026fddaf1d16d43e6</sys_scope><sys_update_name>sp_instance_24f6c945478b391026fddaf1d16d433a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-09 19:12:58</sys_updated_on><title>Top Rated Articles</title><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=24f6c945478b391026fddaf1d16d433a"/></record_update>]]></payload>
+        <payload_hash>-1770215469</payload_hash>
+        <record_name>Top Rated Articles</record_name>
+        <reverted_from/>
+        <source>9e42bc89470b391026fddaf1d16d437d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 19:12:58</sys_created_on>
+        <sys_id>bde78d85478b391026fddaf1d16d4358</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c4fff43f10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 19:12:58</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>75e78d856e8b3910be80251c0e0b4458</update_guid>
+        <update_guid_history>75e78d856e8b3910be80251c0e0b4458:-1770215469,68f6c945508b39105b99e3c70390443b:601881714</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Top Rated Articles">53e7cd45478b391026fddaf1d16d43bb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 19:13:03</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>4a68492708f64308962fab3c0d08f844</sys_id>
+        <sys_metadata>24f6c945478b391026fddaf1d16d433a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Top Rated Articles</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1250560_gest_o_0">21d8288c4703351026fddaf1d16d43e6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">21d8288c4703351026fddaf1d16d43e6</sys_scope>
+        <sys_scope_delete display_value="">73c5622c1b57444c84f66d2484cbaad9</sys_scope_delete>
+        <sys_update_name>sp_instance_24f6c945478b391026fddaf1d16d433a</sys_update_name>
+        <sys_update_version display_value="sp_instance_24f6c945478b391026fddaf1d16d433a">bde78d85478b391026fddaf1d16d4358</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 19:13:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -44,8 +44,10 @@
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
-        <reference_qual/>
-        <reference_qual_condition/>
+        <reference_qual>quantidades&gt;0^EQ</reference_qual>
+        <reference_qual_condition table="x_1250560_gest_o_0_tabela_de_produtos">quantidades&gt;0^EQ<item endquery="false" field="quantidades" goto="false" newquery="false" operator="&gt;" or="false" value="0"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </reference_qual_condition>
         <reference_type/>
         <spell_check>false</spell_check>
         <staged>false</staged>
@@ -58,7 +60,7 @@
         <sys_scope display_value="Gestão de Inventário">21d8288c4703351026fddaf1d16d43e6</sys_scope>
         <sys_update_name>sys_dictionary_x_1250560_gest_o_0_pedidos_produtos</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-06 14:35:35</sys_updated_on>
+        <sys_updated_on>2023-12-09 19:59:26</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

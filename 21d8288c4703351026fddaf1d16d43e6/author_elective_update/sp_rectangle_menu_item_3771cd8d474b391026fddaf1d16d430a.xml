@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="DELETE">
+        <active>true</active>
+        <color>default</color>
+        <condition/>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph/>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>Novo Pedido</label>
+        <order>100</order>
+        <record_script/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <sp_page/>
+        <sp_rectangle_menu display_value="MenuGestão">c7ebb8c5474b391026fddaf1d16d4399</sp_rectangle_menu>
+        <sp_rectangle_menu_item/>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 18:47:24</sys_created_on>
+        <sys_id>3771cd8d474b391026fddaf1d16d430a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Novo Pedido</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1250560_gest_o_0">21d8288c4703351026fddaf1d16d43e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">21d8288c4703351026fddaf1d16d43e6</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_3771cd8d474b391026fddaf1d16d430a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 18:47:24</sys_updated_on>
+        <table/>
+        <type>url</type>
+        <url>https://dev227736.service-now.com/mercearia?id=form&amp;is_new_order=true&amp;table=x_1250560_gest_o_0_pedidos&amp;sys_id=-1</url>
+        <url_target/>
+    </sp_rectangle_menu_item>
+    <sys_translated_text action="DELETE" query="documentkey=3771cd8d474b391026fddaf1d16d430a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">21d8288c4703351026fddaf1d16d43e6</application>
+        <file_path/>
+        <instance_id>b7dc55651bbaf9549377eb9b2d4bcb46</instance_id>
+        <instance_name>dev227736</instance_name>
+        <name>sp_rectangle_menu_item_3771cd8d474b391026fddaf1d16d430a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item"><sp_rectangle_menu_item action="INSERT_OR_UPDATE"><active>true</active><color>default</color><condition/><display_1/><display_2/><display_date/><filter/><glyph/><hint/><kb_article/><kb_category/><kb_topic/><label>Novo Pedido</label><order>100</order><record_script/><sc_cat_item/><sc_category/><short_description/><sp_page/><sp_rectangle_menu display_value="MenuGestão">c7ebb8c5474b391026fddaf1d16d4399</sp_rectangle_menu><sp_rectangle_menu_item/><sys_class_name>sp_rectangle_menu_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-09 18:47:24</sys_created_on><sys_id>3771cd8d474b391026fddaf1d16d430a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Novo Pedido</sys_name><sys_package display_value="Gestão de Inventário" source="x_1250560_gest_o_0">21d8288c4703351026fddaf1d16d43e6</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">21d8288c4703351026fddaf1d16d43e6</sys_scope><sys_update_name>sp_rectangle_menu_item_3771cd8d474b391026fddaf1d16d430a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-09 18:47:24</sys_updated_on><table/><type>url</type><url>https://dev227736.service-now.com/mercearia?id=form&amp;is_new_order=true&amp;table=x_1250560_gest_o_0_pedidos&amp;sys_id=-1</url><url_target/></sp_rectangle_menu_item><sys_translated_text action="delete_multiple" query="documentkey=3771cd8d474b391026fddaf1d16d430a"/></record_update>]]></payload>
+        <payload_hash>-79469186</payload_hash>
+        <record_name>Novo Pedido</record_name>
+        <reverted_from/>
+        <source>9e42bc89470b391026fddaf1d16d437d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 18:47:25</sys_created_on>
+        <sys_id>2302c5cd474b391026fddaf1d16d43dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c4fe7de730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 18:47:25</sys_updated_on>
+        <type>Menu Item</type>
+        <update_guid>6702c5cd6b4b3910438223662b1636dc</update_guid>
+        <update_guid_history>6702c5cd6b4b3910438223662b1636dc:-79469186</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Novo Pedido">d265c1c1478b391026fddaf1d16d436e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 19:02:05</sys_created_on>
+        <sys_db_object display_value="" name="sp_rectangle_menu_item">sp_rectangle_menu_item</sys_db_object>
+        <sys_id>946cd8f3260740f4b18dd4f58d39a110</sys_id>
+        <sys_metadata>3771cd8d474b391026fddaf1d16d430a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Novo Pedido</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1250560_gest_o_0">21d8288c4703351026fddaf1d16d43e6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">21d8288c4703351026fddaf1d16d43e6</sys_scope>
+        <sys_scope_delete display_value="">73c5622c1b57444c84f66d2484cbaad9</sys_scope_delete>
+        <sys_update_name>sp_rectangle_menu_item_3771cd8d474b391026fddaf1d16d430a</sys_update_name>
+        <sys_update_version display_value="sp_rectangle_menu_item_3771cd8d474b391026fddaf1d16d430a">2302c5cd474b391026fddaf1d16d43dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 19:02:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

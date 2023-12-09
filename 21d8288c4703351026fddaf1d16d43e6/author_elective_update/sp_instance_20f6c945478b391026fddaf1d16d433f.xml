@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">a8f6c945478b391026fddaf1d16d433c</sp_column>
+        <sp_widget display_value="My Surveys">04b1cc07c3231200e44574e1c1d3ae96</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 19:08:46</sys_created_on>
+        <sys_id>20f6c945478b391026fddaf1d16d433f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My Surveys</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1250560_gest_o_0">21d8288c4703351026fddaf1d16d43e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">21d8288c4703351026fddaf1d16d43e6</sys_scope>
+        <sys_update_name>sp_instance_20f6c945478b391026fddaf1d16d433f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 19:12:57</sys_updated_on>
+        <title>My Surveys</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=20f6c945478b391026fddaf1d16d433f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">21d8288c4703351026fddaf1d16d43e6</application>
+        <file_path/>
+        <instance_id>b7dc55651bbaf9549377eb9b2d4bcb46</instance_id>
+        <instance_name>dev227736</instance_name>
+        <name>sp_instance_20f6c945478b391026fddaf1d16d433f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="2">a8f6c945478b391026fddaf1d16d433c</sp_column><sp_widget display_value="My Surveys">04b1cc07c3231200e44574e1c1d3ae96</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-09 19:08:46</sys_created_on><sys_id>20f6c945478b391026fddaf1d16d433f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>My Surveys</sys_name><sys_package display_value="Gestão de Inventário" source="x_1250560_gest_o_0">21d8288c4703351026fddaf1d16d43e6</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">21d8288c4703351026fddaf1d16d43e6</sys_scope><sys_update_name>sp_instance_20f6c945478b391026fddaf1d16d433f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-09 19:12:57</sys_updated_on><title>My Surveys</title><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=20f6c945478b391026fddaf1d16d433f"/></record_update>]]></payload>
+        <payload_hash>664777372</payload_hash>
+        <record_name>My Surveys</record_name>
+        <reverted_from/>
+        <source>9e42bc89470b391026fddaf1d16d437d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 19:12:57</sys_created_on>
+        <sys_id>2de78d85478b391026fddaf1d16d4322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c4fff40200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 19:12:57</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>e1e78d855f8b3910067d36fd59879d22</update_guid>
+        <update_guid_history>e1e78d855f8b3910067d36fd59879d22:664777372,a4f6c945148b39107796111ba5a4cb40:1016086779</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="My Surveys">48f74185478b391026fddaf1d16d438b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 19:13:06</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>d1ca2fd5b2a04caea4ccad06d827dd24</sys_id>
+        <sys_metadata>20f6c945478b391026fddaf1d16d433f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Surveys</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1250560_gest_o_0">21d8288c4703351026fddaf1d16d43e6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">21d8288c4703351026fddaf1d16d43e6</sys_scope>
+        <sys_scope_delete display_value="">73c5622c1b57444c84f66d2484cbaad9</sys_scope_delete>
+        <sys_update_name>sp_instance_20f6c945478b391026fddaf1d16d433f</sys_update_name>
+        <sys_update_version display_value="sp_instance_20f6c945478b391026fddaf1d16d433f">2de78d85478b391026fddaf1d16d4322</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 19:13:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
